@@ -1,0 +1,73 @@
+{
+ "MangaSite":
+ [
+  
+ ],
+ "MangaLibrary":[
+  {
+    "id":1,
+    "MangaName":"I’Ll Be Taking A Break For Personal Reasons",
+    "MangaCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVngRe3vVhfcB2BkgOa5EGcUXRS1_cQruEFA&usqp=CAU",
+    "Chapters":
+    [
+      {
+        "id":1,
+        "Chapter":1,
+        "img":"https://s1.cdn-manga.com/files/WP-manga/data/4414/8fe1f2e455ff223c81a6441733982773/1-o.jpg"
+      },
+      {
+        "id":2,
+        "Chapter":2,
+        "img":"https://s1.cdn-manga.com/files/WP-manga/data/4414/2497df6832e4b73a3d60be0ae51d0335/7-o.jpg"
+      },
+      {
+        "id":3,
+        "Chapter":3,
+        "img":"https://s1.cdn-manga.com/files/WP-manga/data/4414/9283cf27051bcfc348361d41a0d8265d/2-o.jpg"
+      }
+
+    ]
+  },
+  {
+    "id":2,
+    "MangaName":"Blue Lock",
+    "MangaCover":"https://cdn-manga.com/files/thumbnail/blue-lock.jpg",
+    "Chapters":
+    [
+      {
+        "id":1,
+        "Chapter":1,
+        "img":"https://s1.cdn-manga.com/files/WP-manga/data/1365/8fe1f2e455ff223c81a6441733982773/5.jpg"
+      },
+      {
+        "id":2,
+        "Chapter":2,
+        "img":"https://s1.cdn-manga.com/files/WP-manga/data/1365/8fe1f2e455ff223c81a6441733982773/6.jpg"
+      },
+      {
+        "id":3,
+        "Chapter":3,
+        "img":"https://s1.cdn-manga.com/files/WP-manga/data/1365/8fe1f2e455ff223c81a6441733982773/8.jpg"
+      },
+      {
+        "id":4,
+        "Chapter":4,
+        "img":"https://s1.cdn-manga.com/files/WP-manga/data/1365/8fe1f2e455ff223c81a6441733982773/9.jpg"
+      }
+      ,
+      {
+        "id":5,
+        "Chapter":5,
+        "img":"https://s1.cdn-manga.com/files/WP-manga/data/1365/8fe1f2e455ff223c81a6441733982773/10.jpg"
+      }
+      ,
+      {
+        "id":6,
+        "Chapter":6,
+        "img":"https://s1.cdn-manga.com/files/WP-manga/data/1365/8fe1f2e455ff223c81a6441733982773/11.jpg"
+      }
+
+    ]
+  }
+ ]
+}
