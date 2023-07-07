@@ -6,6 +6,7 @@
  "MangaLibrary":[
   {
     "id":1,
+    "dateAdded": "2023-07-06",
     "MangaName":"I’Ll Be Taking A Break For Personal Reasons",
     "MangaCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVngRe3vVhfcB2BkgOa5EGcUXRS1_cQruEFA&usqp=CAU",
     "Chapters":
@@ -30,6 +31,7 @@
   },
   {
     "id":2,
+    "dateAdded": "2023-07-07",
     "MangaName":"Blue Lock",
     "MangaCover":"https://cdn-manga.com/files/thumbnail/blue-lock.jpg",
     "Chapters":

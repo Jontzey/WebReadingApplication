@@ -25,7 +25,7 @@ function MangaImage() {
           })
       }, [id]);
 
-    return ( <div style={{display:"flex", justifyContent:"center", flexDirection:"column", alignItems:"center"}}>
+    return ( <div style={{display:"flex", justifyContent:"center", flexDirection:"column", alignItems:"center", backgroundColor:"black"}}>
             <MangaNextBack
             id={id2}
             Manga={id}

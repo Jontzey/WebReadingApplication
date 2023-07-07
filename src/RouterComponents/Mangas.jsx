@@ -12,12 +12,12 @@ function Mangas() {
     }, [])
 
  
-    return ( <div style={{height:"100vh"}}>
+    return ( <div style={{height:"100vh", display:"flex", flexDirection:"column", alignItems:"center"}}>
         {
             Mangas.map((m) => (
                 <Link key={m.id} to={{pathname:`/MangaLibrary/${m.id}`}} >
-                <div style={{display:"flex", flexDirection:"row", alignItems:"center", marginTop:"10px"}}>
-                    <img  src={m.MangaCover}/>
+                <div className='MangaSelection'>
+                    <img style={{width:"100px", height:"150px"}}  src={m.MangaCover}/>
                     <h3>{m.MangaName}</h3>
                 </div>
                 </Link>
